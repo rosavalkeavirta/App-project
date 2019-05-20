@@ -1,0 +1,36 @@
+
+  .logo-area {
+    color: white;
+    background-color: #00334e;
+    text-align: center;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 1.4cm;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border-bottom: solid 2px #00334e;
+ }
+ 
+ .late-food-header {
+     color: #6fc2d0; 
+     background-color: #00334e;
+     text-align: center;
+     padding: 15px;
+     font-weight: bold;
+     font-size: 1.4em;
+     letter-spacing: 3px;
+     border-bottom: solid 2px #00334e;
+     
+ }
+ .late-food-footer {
+     color: #6fc2d0;
+     background-color: #00334e;
+     text-align: center;
+     padding: 15px;
+     font-weight: bold;
+     font-size: 0.8em;
+     letter-spacing: 3px;
+     border-bottom: solid 2px #00334e;
+     
+ }
+
